@@ -11,4 +11,4 @@ Tracking my transition into data analysis and cloud engineering.
 - **Cost Variance:** `=K2-J2`
 
 ## Project Tracker Notes
-- (Drop your random thoughts or project blockers here)
+- 
