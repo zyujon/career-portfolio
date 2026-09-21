@@ -1,6 +1,2 @@
-### 📝 Excel Formula Cheat Sheet
-> **Timeline Slip Formula (Handling Blank Ongoing Projects):**
-> ```excel
-> =IF(H2="", TODAY()-F2, H2-F2)
-> ```
-> * **How it works:** Checks if the Actual End Date (`H2`) is blank. If it is blank (meaning the project is still running), it subtracts the Planned End Date from today's date (`TODAY()`) to show current delay. If it has a date, it calculates the final delay.
+In 'Project Management' dataset, some 'tasks' were still ongoing (no end date). When running formula to see days overdue planned end date, it was -45k days. Updated the formula to an IF formula. and used if column is blank, then use "TODAY()" instead of the blank column.  
+=IF(G2="",TODAY()-F2,G2-F2)
