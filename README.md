@@ -7,8 +7,8 @@ Tracking my transition into data analysis and cloud engineering.
 - 
 
 ## Excel Formulas & Cheat Sheet
-**Timeline Slip:** `=IF(H2="", TODAY()-F2, H2-F2)`
-**Cost Variance:** `=K2-J2`
+- **Timeline Slip:** `=IF(H2="", TODAY()-F2, H2-F2)`
+- **Cost Variance:** `=K2-J2`
 
 ## Project Tracker Notes
 - 
