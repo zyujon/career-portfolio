@@ -1,4 +1,4 @@
-# Career Tech Portfolio
+# Notes
 Tracking my transition into data analysis and cloud engineering.
 
 ## Active Learning Log (Latest Notes)
